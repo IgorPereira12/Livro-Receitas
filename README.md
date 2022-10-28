@@ -2,5 +2,5 @@
 
 Olá! Bem vindo ao meu livro de receitas:
 
-- Strogonoff
-- Pudim
+- [Strogonoff](https://github.com/Xumbrunha/livro-receitas/blob/master/receitas/strogonoff.md)
+- [Pudim](https://github.com/Xumbrunha/livro-receitas/blob/master/receitas/pudim.md)
